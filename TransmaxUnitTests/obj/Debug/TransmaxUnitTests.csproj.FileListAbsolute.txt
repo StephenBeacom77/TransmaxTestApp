@@ -1,0 +1,10 @@
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\TransmaxUnitTests.dll
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\TransmaxUnitTests.pdb
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\obj\Debug\TransmaxUnitTests.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\obj\Debug\TransmaxUnitTests.dll
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\obj\Debug\TransmaxUnitTests.pdb
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\nunit.framework.dll
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\TransmaxTestApp.exe
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\NUnit.System.Linq.dll
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\TransmaxTestApp.pdb
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxUnitTests\bin\Debug\nunit.framework.xml

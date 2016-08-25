@@ -1,0 +1,6 @@
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxTestApp\bin\Debug\TransmaxTestApp.exe.config
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxTestApp\bin\Debug\TransmaxTestApp.exe
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxTestApp\bin\Debug\TransmaxTestApp.pdb
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxTestApp\obj\Debug\TransmaxTestApp.csprojResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxTestApp\obj\Debug\TransmaxTestApp.exe
+c:\users\steve\documents\visual studio 2015\Projects\TransmaxTestApp\TransmaxTestApp\obj\Debug\TransmaxTestApp.pdb
